@@ -1,1 +1,10 @@
-/* add your styles here */
+div{
+    display: grid;
+    grid-template-columns: repeat(2,600px);
+    grid-gap: 50px;
+    
+}
+img{
+    height: 500px;
+    width: 500px;
+}
